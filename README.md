@@ -575,3 +575,5 @@ _this.closest('.card').offset().top }, "fast");
 
 
 
+
+
